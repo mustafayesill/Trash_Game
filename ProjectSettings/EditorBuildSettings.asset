@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 9576d5dafc20ef343ad22ee75d7f0cf6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8e1ee143445efd342a299ac805ff4d2b
+  - enabled: 1
+    path: Assets/Scenes/level 1.unity
+    guid: 15366f331c8a6b24eb36284f0b0069c9
+  - enabled: 1
+    path: Assets/Scenes/level 2.unity
+    guid: 2db5431688eb3324893f9d57c45c572e
+  - enabled: 1
+    path: Assets/Scenes/level 3.unity
+    guid: 1fe8709bcccc1b348bd9c4b2d334c82d
+  - enabled: 1
+    path: Assets/Scenes/level 4.unity
+    guid: ddfb7bbdb38cb734a95e182b2677bfd8
+  - enabled: 1
+    path: Assets/Scenes/level 5.unity
+    guid: fc097198525c3364a8490f624abdd0f7
+  - enabled: 1
+    path: Assets/Scenes/level 6.unity
+    guid: 2a4942b82e326fc4593977c6afaa779d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Egitim.unity
+    guid: 3b9bd71d01945274f9b68bfb1982aab1
+  m_configObjects: {}
